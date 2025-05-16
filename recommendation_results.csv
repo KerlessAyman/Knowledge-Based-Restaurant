@@ -1,0 +1,33 @@
+Restaurant Name,City,Locality,Longitude,Latitude,Cuisines,Average Cost for two,Currency,Has Table booking,Has Online delivery,Is delivering now,Price range,Aggregate rating,Votes,cost_category,primary_cuisine,score,Selected_Cuisine,Selected_Budget,Selected_Location
+Suresh Fast Food,New Delhi,Delhi University-GTB Nagar,77.2052605,28.6947235,"indian, chinese",250,Indian Rupees(Rs.),No,No,No,1,3.7,91,Low,indian,2.89,indian,Low,delhi
+A Vaishno Bhojnalaya,New Delhi,Delhi University-GTB Nagar,77.2039877,28.6952736,indian,100,Indian Rupees(Rs.),No,No,No,1,3.1,29,Low,indian,2.265604395604396,indian,Low,delhi
+Khushboo Vaishno Dhaba,New Delhi,Delhi University-GTB Nagar,77.2045418,28.7099688,indian,150,Indian Rupees(Rs.),No,No,No,1,2.9,5,Low,indian,2.046483516483516,indian,Low,delhi
+TiffinToons,New Delhi,Delhi University-GTB Nagar,77.19461525,28.69248552,"indian, indian",200,Indian Rupees(Rs.),No,No,No,1,0.0,0,Low,indian,0.0,indian,Low,delhi
+Suresh Fast Food,New Delhi,Delhi University-GTB Nagar,77.2052605,28.6947235,"indian, chinese",250,Indian Rupees(Rs.),No,No,No,1,3.7,91,Low,indian,2.89,indian,Low,delhi
+A Vaishno Bhojnalaya,New Delhi,Delhi University-GTB Nagar,77.2039877,28.6952736,indian,100,Indian Rupees(Rs.),No,No,No,1,3.1,29,Low,indian,2.265604395604396,indian,Low,delhi
+Khushboo Vaishno Dhaba,New Delhi,Delhi University-GTB Nagar,77.2045418,28.7099688,indian,150,Indian Rupees(Rs.),No,No,No,1,2.9,5,Low,indian,2.046483516483516,indian,Low,delhi
+TiffinToons,New Delhi,Delhi University-GTB Nagar,77.19461525,28.69248552,"indian, indian",200,Indian Rupees(Rs.),No,No,No,1,0.0,0,Low,indian,0.0,indian,Low,delhi
+Suresh Fast Food,New Delhi,Delhi University-GTB Nagar,77.2052605,28.6947235,"indian, chinese",250,Indian Rupees(Rs.),No,No,No,1,3.7,91,Low,indian,2.89,indian,Low,delhi
+A Vaishno Bhojnalaya,New Delhi,Delhi University-GTB Nagar,77.2039877,28.6952736,indian,100,Indian Rupees(Rs.),No,No,No,1,3.1,29,Low,indian,2.265604395604396,indian,Low,delhi
+Khushboo Vaishno Dhaba,New Delhi,Delhi University-GTB Nagar,77.2045418,28.7099688,indian,150,Indian Rupees(Rs.),No,No,No,1,2.9,5,Low,indian,2.046483516483516,indian,Low,delhi
+TiffinToons,New Delhi,Delhi University-GTB Nagar,77.19461525,28.69248552,"indian, indian",200,Indian Rupees(Rs.),No,No,No,1,0.0,0,Low,indian,0.0,indian,Low,delhi
+Suresh Fast Food,New Delhi,Delhi University-GTB Nagar,77.2052605,28.6947235,"indian, chinese",250,Indian Rupees(Rs.),No,No,No,1,3.7,91,Low,indian,2.89,indian,Low,delhi
+A Vaishno Bhojnalaya,New Delhi,Delhi University-GTB Nagar,77.2039877,28.6952736,indian,100,Indian Rupees(Rs.),No,No,No,1,3.1,29,Low,indian,2.265604395604396,indian,Low,delhi
+Khushboo Vaishno Dhaba,New Delhi,Delhi University-GTB Nagar,77.2045418,28.7099688,indian,150,Indian Rupees(Rs.),No,No,No,1,2.9,5,Low,indian,2.046483516483516,indian,Low,delhi
+TiffinToons,New Delhi,Delhi University-GTB Nagar,77.19461525,28.69248552,"indian, indian",200,Indian Rupees(Rs.),No,No,No,1,0.0,0,Low,indian,0.0,indian,Low,delhi
+Suresh Fast Food,New Delhi,Delhi University-GTB Nagar,77.2052605,28.6947235,"indian, chinese",250,Indian Rupees(Rs.),No,No,No,1,3.7,91,Low,indian,2.89,indian,Low,delhi
+A Vaishno Bhojnalaya,New Delhi,Delhi University-GTB Nagar,77.2039877,28.6952736,indian,100,Indian Rupees(Rs.),No,No,No,1,3.1,29,Low,indian,2.265604395604396,indian,Low,delhi
+Khushboo Vaishno Dhaba,New Delhi,Delhi University-GTB Nagar,77.2045418,28.7099688,indian,150,Indian Rupees(Rs.),No,No,No,1,2.9,5,Low,indian,2.046483516483516,indian,Low,delhi
+TiffinToons,New Delhi,Delhi University-GTB Nagar,77.19461525,28.69248552,"indian, indian",200,Indian Rupees(Rs.),No,No,No,1,0.0,0,Low,indian,0.0,indian,Low,delhi
+Suresh Fast Food,New Delhi,Delhi University-GTB Nagar,77.2052605,28.6947235,"indian, chinese",250,Indian Rupees(Rs.),No,No,No,1,3.7,91,Low,indian,2.89,indian,Low,delhi
+A Vaishno Bhojnalaya,New Delhi,Delhi University-GTB Nagar,77.2039877,28.6952736,indian,100,Indian Rupees(Rs.),No,No,No,1,3.1,29,Low,indian,2.265604395604396,indian,Low,delhi
+Khushboo Vaishno Dhaba,New Delhi,Delhi University-GTB Nagar,77.2045418,28.7099688,indian,150,Indian Rupees(Rs.),No,No,No,1,2.9,5,Low,indian,2.046483516483516,indian,Low,delhi
+TiffinToons,New Delhi,Delhi University-GTB Nagar,77.19461525,28.69248552,"indian, indian",200,Indian Rupees(Rs.),No,No,No,1,0.0,0,Low,indian,0.0,indian,Low,delhi
+Suresh Fast Food,New Delhi,Delhi University-GTB Nagar,77.2052605,28.6947235,"indian, chinese",250,Indian Rupees(Rs.),No,No,No,1,3.7,91,Low,indian,2.89,indian,Low,delhi
+A Vaishno Bhojnalaya,New Delhi,Delhi University-GTB Nagar,77.2039877,28.6952736,indian,100,Indian Rupees(Rs.),No,No,No,1,3.1,29,Low,indian,2.265604395604396,indian,Low,delhi
+Khushboo Vaishno Dhaba,New Delhi,Delhi University-GTB Nagar,77.2045418,28.7099688,indian,150,Indian Rupees(Rs.),No,No,No,1,2.9,5,Low,indian,2.046483516483516,indian,Low,delhi
+TiffinToons,New Delhi,Delhi University-GTB Nagar,77.19461525,28.69248552,"indian, indian",200,Indian Rupees(Rs.),No,No,No,1,0.0,0,Low,indian,0.0,indian,Low,delhi
+Suresh Fast Food,New Delhi,Delhi University-GTB Nagar,77.2052605,28.6947235,"indian, chinese",250,Indian Rupees(Rs.),No,No,No,1,3.7,91,Low,indian,2.8899999999999997,indian,Low,delhi
+A Vaishno Bhojnalaya,New Delhi,Delhi University-GTB Nagar,77.2039877,28.6952736,indian,100,Indian Rupees(Rs.),No,No,No,1,3.1,29,Low,indian,2.2656043956043956,indian,Low,delhi
+Khushboo Vaishno Dhaba,New Delhi,Delhi University-GTB Nagar,77.2045418,28.7099688,indian,150,Indian Rupees(Rs.),No,No,No,1,2.9,5,Low,indian,2.0464835164835162,indian,Low,delhi
+TiffinToons,New Delhi,Delhi University-GTB Nagar,77.19461525,28.69248552,"indian, indian",200,Indian Rupees(Rs.),No,No,No,1,0.0,0,Low,indian,0.0,indian,Low,delhi
